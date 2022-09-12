@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
+
+##Creating a project Step by Step
+
 1. Crear el proyecto `nest new project-name`.
     * Borrar los archivos innecesarios (dejar sólo el module)
 
